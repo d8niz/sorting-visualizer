@@ -2,7 +2,11 @@
 
 - This is a single page application that attempts to visualize some well-known sorting algorithms.
 
-# WorkLog
+# So far
+
+![so_far](./assets/so_far.png)
+
+## WorkLog
 
 - Start implementing the skeletons:
   - Bootstrap using `npx create-react-app`
